@@ -15,7 +15,7 @@
 >
 > <div align="center">  <h2>Español</h2>  </div>
 > 
-> Bueno, anhelas jugar esto?
+> Bueno, ¿anhelas jugar esto?
 > 
 
 
