@@ -1,12 +1,14 @@
 <div align="center">
 
-## Hangman - Java </div>
+## Hangman V2 - Java </div>
 <br>
 
 > [!IMPORTANT]
 >
 > <div align="center"> <h2>English</h2> </div>
 > 
+> My version 2.0 of the game
+>
 > Well, wanna play this?
 >
 
@@ -15,6 +17,8 @@
 >
 > <div align="center">  <h2>Español</h2>  </div>
 > 
+> Mi versión 2.0 de esto.
+>
 > Bueno, ¿anhelas jugar esto?
 > 
 
